@@ -1,1 +1,1 @@
-9-insert_school.py
+8-all.py
